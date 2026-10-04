@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#0B111A</color>
+    <color name="bg_card">#141D2B</color>
+    <color name="bg_card_inner">#1C2638</color>
+    <color name="accent_cyan">#00D2E0</color>
+    <color name="accent_teal_bg">#0E2A2E</color>
+    <color name="accent_teal_border">#00A896</color>
+    <color name="text_title">#FFFFFF</color>
+    <color name="text_sub">#7D8B9B</color>
+    <color name="text_highlight">#00E5FF</color>
+    <color name="btn_secondary">#253246</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

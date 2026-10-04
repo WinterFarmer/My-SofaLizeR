@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Kotak Kutipan -->
+    <item>
+        <shape>
+            <solid android:color="#0F1722" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+    <!-- Garis Aksen Kiri (Blockquote Border-Left ala Web) -->
+    <item android:gravity="start|left" android:width="4dp">
+        <shape>
+            <solid android:color="@color/accent_cyan" />
+            <corners
+                android:topLeftRadius="10dp"
+                android:bottomLeftRadius="10dp" />
+        </shape>
+    </item>
+</layer-list>
