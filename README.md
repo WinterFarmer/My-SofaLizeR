@@ -22,7 +22,7 @@ Using the app is straightforward and only takes a few steps:
 
 1. **Select Input Video:** Pick your source `.mkv` file containing multichannel audio.
 2. **Load HRTF File (`.sofa`):** Select your preferred `.sofa` HRTF dataset. 
-   > 💡 *You can download various HRTF `.sofa` files from [sofaconvention.org](https://www.sofaconvention.org/).*
+   > 💡 *You can download various HRTF `.sofa` files from [sofaconvention.org](https://www.sofaconventions.org/).*
 3. **Load AutoEQ Config (`.txt`) *(Optional)*:** Select a `.txt` equalization file tailored for your headphone/IEM model.
    > 💡 *You can generate and download your EQ profile from [autoeq.app](https://autoeq.app/).*
 4. **Choose Output Mode:** Select whether you want the final output saved back as a video (`.mkv`) or as a standalone lossless audio file (`.flac`).
